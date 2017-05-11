@@ -6,8 +6,7 @@ env:
   matrix:
     - ANDROID_SDKS=android-19 ANDROID_TARGET=android-19 ANDROID_ABI=armeabi-v7a ANDROID_TRAVIS=1
   global:
-    -  secure: "xjf0sH0CPk6kzpZrFHdKVJTX0vc6h5pBg0xgnLg/AxuhELy6PQZyez1maSIsyUWDc2SAaQBKyTx7iFHJOZJFkvMB6EuBUZjf3vpQuOnNAmVeGZpk/0DNA7RTGOu+kTtbc6AXNp/Rf6npIfDiiQITAJwJAIG2aZv5yex8A9ViM1uTyv4gYkh83uienYH41Ccq68KFmfD7NVuMVqICAf7s59vZxcZmd1q0qJYotSNQk+WQr9YhQzUo9BFZvaB8JclN8dtm8R3mosTJT8Bm+hiKeEQNg0H8owl2rUFqyOGNuTk8/DEqcwr+h9go6J+IwUu1mgT6ywcELKoi2pBCgPxYrH0BAFg/uTQYkvZ3rynQHrwpL2MXGMI8INlW7Cz8rq9U/Sn5WtccEDL9xQhC4aCA8jEvj4apV42VhcBN8gSx/Sw4zedfdVJKajgZNRzURc/RXskK2oOcGSdXj/UPFrJj+3KwuxxpohTq/7FbKFPktasojc+BmwjMkRGAOk2/bOP8X1CJQkL/YPZXU/V0n20EhW05qURNlVbaHr6bLJwtbDBnKg7TVQaL3cls0VOXX8UHPKAgfGWpy17OIIiIhbW89i2uaYcF/yELqMKU0bGBsZceo5fLHkJp8P3qVHo0KrVXCljsf2VlNcbS+iXeQ/vxnUm6eeqF2xd8Q8W0N1TS2eA="
-
+   
 android:
   components:
     - tools
