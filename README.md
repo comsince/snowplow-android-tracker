@@ -88,8 +88,8 @@ limitations under the License.
 [roadmap]: https://github.com/snowplow/snowplow/wiki/Product-roadmap
 [contributing]: https://github.com/snowplow/snowplow/wiki/Contributing
 
-[travis]: https://travis-ci.org/snowplow/snowplow-android-tracker
-[travis-image]: https://travis-ci.org/snowplow/snowplow-android-tracker.svg?branch=master
+[travis]: https://travis-ci.org/comsince/snowplow-android-tracker
+[travis-image]: https://travis-ci.org/comsince/snowplow-android-tracker.svg?branch=master
 
 [release-image]: http://img.shields.io/badge/release-0.6.2-blue.svg?style=flat
 [releases]: https://github.com/snowplow/snowplow-android-tracker/releases
@@ -97,5 +97,5 @@ limitations under the License.
 [license-image]: http://img.shields.io/badge/license-Apache--2-blue.svg?style=flat
 [license]: http://www.apache.org/licenses/LICENSE-2.0
 
-[coveralls-image]: https://coveralls.io/repos/github/snowplow/snowplow-android-tracker/badge.svg?branch=master
-[coveralls]: https://coveralls.io/github/snowplow/snowplow-android-tracker?branch=master
+[coveralls-image]: https://coveralls.io/repos/github/comsince/snowplow-android-tracker/badge.svg?branch=master
+[coveralls]: https://coveralls.io/github/comsince/snowplow-android-tracker?branch=master
